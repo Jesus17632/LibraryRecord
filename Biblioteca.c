@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : finalProjectt.c
- Author      : Sarah y Jesús
+ Author      : Sarah y Jesús PRUEBA DE TAGS
  Version     :
  Copyright   : Your copyright notice
  Description : Programa registro biblioteca
