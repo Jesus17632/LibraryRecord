@@ -11,7 +11,7 @@
 #include <stdlib.h>
 #include "raiz.h"
 
-#define SIZE	10 //define un tamaño de 10
+#define SIZE	10 //define un tamaño de 10 SIZE
 
 struct libro{ //características que debe tener un libro
 	int numLibro;
